@@ -10,6 +10,9 @@ private List<baba> babe;
 public BabeRepo()
 {
 	babe=new ArrayList<>();
-	babe.ad
+	babe.add(new baba("imebabe1"));
+	babe.add(new baba("imebabe2"));
+	babe.add(new baba("imebabe3"));
+	babe.add(new baba("imebabe4"));
 }
 }
